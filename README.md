@@ -497,7 +497,7 @@ sudo certbot renew --dry-run
 
 ![Certbot certificate setup](docs/images/Captura%20de%20pantalla%202026-10-14%20a%20la%28s%29%206.37.34%E2%80%AFp.m..png)
 
-### Troubleshooting
+
 ## 13. Repository structure
 
 ### Backend repository
